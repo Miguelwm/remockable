@@ -1,3 +1,7 @@
+# Purpose of this fork
+
+Purpose of this fork is to have a remockable gem that does not limit itself to Rails 6.2
+
 # Remockable
 
 [![Build Status][travis-image]][travis] [![Dependency Status][gemnasium-image]][gemnasium] [![Gem Version][rubygems-image]][rubygems]
